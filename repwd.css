@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height:100%;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:url('2.jpg') no-repeat center/cover;
+}
+
+.rpwd{
+    width:300px;
+    height:250px;
+    background:url('2.jpg') no-repeat center/cover;
+
+}
+
+.rtitle{
+    color:#FFFFFF;
+    text-align:center;
+    font-size:2em;
+}
+.rcontent{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+}
+.input1{
+    height:25px;
+}
+.input2{
+    height:25px;
+}
+.input3{
+    height:25px;
+}
