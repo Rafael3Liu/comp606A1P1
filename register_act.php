@@ -35,7 +35,7 @@ if(empty($password)){
     alert('password can not be empty');
     location.href='register.php';
     </script>";
-    exit;
+    exit; 
 }
 if(empty($re_password)){
     
