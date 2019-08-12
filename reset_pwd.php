@@ -37,7 +37,7 @@ $row=mysqli_fetch_assoc($result);
     <input type="submit" value="Reset">
     </form>
     </div>
-    
+     
     
 
 </body>
