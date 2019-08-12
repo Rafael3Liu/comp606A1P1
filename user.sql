@@ -35,7 +35,7 @@ CREATE TABLE `user` (
   `email` varchar(255) NOT NULL,
   `mobile` int(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
+ 
 --
 -- 转存表中的数据 `user`
 --
